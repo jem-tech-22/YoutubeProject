@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+}
+
+.grid-practice {
+  display: grid;
+  grid-template-columns: 120px 120px 120px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+}
+
+.grid-practice-two {
+  display: grid;
+  grid-template-columns: 120px 120px 120px;
+  margin-top: 5px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+}
+
+.one {
+  border: solid black 3px;
+  margin: 5px;
+}
+
+.two {
+  border: solid black 3px;
+  margin: 5px;
+}
+
+.three {
+  border: solid black 3px;
+  margin: 5px;
+}
