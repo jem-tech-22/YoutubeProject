@@ -1,0 +1,1 @@
+This project is a static replica of the basic YouTube user interface made using only HTML and CSS. It includes a top navigation bar with a search placeholder, a collapsible-feeling sidebar layout, a responsive video grid of thumbnail cards, and a simple video-detail layout with title, channel info, and description.
