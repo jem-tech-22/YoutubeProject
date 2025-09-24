@@ -1,7 +1,6 @@
 body {
   font-family: Arial;
 }
-
 .grid-practice {
   display: grid;
   grid-template-columns: 120px 120px 120px;
@@ -32,4 +31,5 @@ body {
 .three {
   border: solid black 3px;
   margin: 5px;
+
 }
